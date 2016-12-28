@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "close-all-errors:toggle"
   },
-  "repository": "https://github.com/atom/close-all-errors",
+  "repository": "https://github.com/phpvar/close-all-errors",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
