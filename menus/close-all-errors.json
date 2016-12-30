@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "close-all-errors",
+          "label": "close all errors",
           "submenu": [
             {
               "label": "Toggle",

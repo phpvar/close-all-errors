@@ -2,6 +2,9 @@
 
 > close all error prompt of atom at the top right corner.
 
+## For Example
+![error prompt](https://github.com/phpvar/close-all-errors/raw/master/images/close_all_errors.png "error prompt")
+
 ## Installation <small>安装
 ```
 apm install close-all-errors
@@ -29,6 +32,4 @@ For example:
 
 ### Contact <small>联系
 
-![QQ](http://www.phpvar.com/phpvar.com/wp-content/themes/forigi1.1/images/qrcode.png 'QQ')
-<span style="padding:0 30px;">
-![微信](http://www.phpvar.com/phpvar.com/wp-content/themes/forigi1.1/images/mmqrcode.png "微信")
+[![phpvar](http://www.phpvar.com)](https://github.com/phpvar/close-all-errors/raw/master/images/phpvar.png 'phpvar')
