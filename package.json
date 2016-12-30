@@ -1,10 +1,11 @@
 {
   "name": "close-all-errors",
   "main": "./lib/close-all-errors",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "close all error prompt of atom at the top right corner.",
   "keywords": [
-    "close all error prompt","close atom notifications"
+    "close all error prompt",
+    "close atom notifications"
   ],
   "activationCommands": {
     "atom-workspace": "close-all-errors:toggle"
