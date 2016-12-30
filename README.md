@@ -3,7 +3,7 @@
 > close all error prompt of atom at the top right corner.
 
 ## For Example
-![error prompt](https://github.com/phpvar/close-all-errors/raw/master/images/close_all_errors.png "error prompt")
+![error prompt](https://raw.githubusercontent.com/phpvar/close-all-errors/master/raw/master/images/close_all_errors.png "error prompt")
 
 ## Installation <small>安装
 ```
@@ -32,4 +32,4 @@ For example:
 
 ### Contact <small>联系
 
-[![phpvar](http://www.phpvar.com)](https://github.com/phpvar/close-all-errors/raw/master/images/phpvar.png 'phpvar')
+[![phpvar](https://raw.githubusercontent.com/phpvar/close-all-errors/master/raw/master/images/phpvar.png)](http://www.phpvar.com "phpvar")
