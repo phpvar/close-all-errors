@@ -1,6 +1,6 @@
 # :lipstick: [Close-All-Errors](https://github.com/phpvar/close-all-errors)
 
-> close all error prompt of atom at the top right corner.
+> close any error or warning prompt boxes in the atom editor.
 
 ## For Example
 ![error prompt](https://raw.githubusercontent.com/phpvar/close-all-errors/master/raw/master/images/close_all_errors.png "error prompt")
